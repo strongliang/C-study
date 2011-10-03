@@ -1,6 +1,0 @@
-Version: 4.1035
-Format-Version: 1.4
-Created-By: Ericsson AB
-Date: Fri, 12 Aug 2011 10:09:41 +0200
-Total-Categories: 10
-Total-Patterns: 109
